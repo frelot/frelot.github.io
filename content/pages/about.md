@@ -2,4 +2,4 @@
 title = "About"
 path = "about"
 +++
-Musings and ruminations about crypto, software, music, life.
+The unpredictable algorithm of life.
