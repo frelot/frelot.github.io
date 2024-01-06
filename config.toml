@@ -10,7 +10,7 @@ build_search_index = false
 theme = "lightspeed"
 
 title = "Frelot Dot Dev"
-description = ""
+description = "Coming Soon"
 
 [markdown]
 # Whether to do syntax highlighting
